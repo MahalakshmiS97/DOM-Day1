@@ -1,0 +1,17 @@
+Emement => tag  + content
+attribute=> class, id, style etc.
+DOM:Document Object Model
+  =>  creates and used HTML elements dynamically.
+  =>  It follows tree like structure for appending the content.
+Step1=> Creating an HTML Element: 
+        for this we will use document.createElement(Elementname)
+        this inbuild function which takes elementname as parameter.
+        Syntax:
+        var/let/const variablename=document.creataElement(elementname)
+        example: <div></div>
+  Step 2=>
+        adding content.
+        syntax: variablename.InnerHTML="content"
+  Step 3=>
+        appending the elements to the body of the document.
+        document.body.append(variable.name)           

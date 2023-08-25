@@ -1,0 +1,21 @@
+body{
+    margin: 50px;
+    padding: 20px;
+    border: 10px solid red;
+    font-size: x-large;
+    font-weight: bold;
+    
+}
+.div{
+    background-color: brown;
+
+}
+.header1bg{
+    background-color: beige;
+}
+.section1bg{
+    background-color: aqua;
+}
+.span1clr{
+    color:blue
+}
